@@ -1,0 +1,8 @@
+[package]
+name = "solvec-wasm"
+version = "0.1.0"
+edition = "2021"
+description = "WASM bindings for SolVec vector search engine"
+license = "MIT"
+
+[dependencies]
